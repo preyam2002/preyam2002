@@ -17,15 +17,18 @@ Welcome to my GitHub profile! I'm passionate about building things that make a d
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![Preyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=preyam2002&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=preyam2002&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preyam2002&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preyam2002&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 📫 Connect With Me
 
