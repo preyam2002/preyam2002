@@ -1,5 +1,3 @@
-Preyam Rao — Backend Engineer
+Preyam Rao
 
-Java • TypeScript • Kubernetes
-
-preyam2002@gmail.com
+I code
