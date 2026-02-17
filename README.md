@@ -1,39 +1,39 @@
-# Hi there! 👋 I'm Preyam
+# Preyam Rao
 
-Welcome to my GitHub profile! I'm passionate about building things that make a difference.
+**Backend Engineer** | Building Distributed Systems | Bangalore, India
 
-## 🚀 About Me
+Currently at Lumora Social. Previously at Oracle building enterprise integration platforms.
 
-- 💻 I love coding and exploring new technologies
-- 🌱 Always learning and growing
-- 🔭 Working on exciting projects
-- 🤝 Open to collaborating on interesting projects
+## 🛠 Tech Stack
 
-## 🛠️ Technologies & Tools
+**Languages:** Java, TypeScript, Python, C++  
+**Backend:** Node.js, Spring Boot, Micronaut  
+**Cloud:** AWS, Kubernetes, Docker  
+**Databases:** PostgreSQL, MongoDB, Redis
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
+**Lumora Social** - Web3 social platform with 32K users  
+*Sui Foundation Grant recipient ($140K)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preyam2002&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+**Aletheia** - Decentralized prediction market  
+*Smart contract platform for creating and trading on predictions*
 
-## 🏆 Top Languages
+**HFT Trading Engine** - Low-latency C++ trading system  
+*2.3μs tick-to-trade, lock-free data structures*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preyam2002&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🏆 Achievements
 
-## 📫 Connect With Me
+- $140K Sui Foundation Grant (2025)
+- Patent Filed: Cross-region Secrets Replication System (2024)
+- Codeforces Candidate Master (1950 rating)
+- Top 5 Nationally: Smart India Hackathon (2022)
 
+## 📫 Connect
+
+- Email: preyam2002@gmail.com
 - GitHub: [@preyam2002](https://github.com/preyam2002)
 
 ---
 
-⭐️ From [preyam2002](https://github.com/preyam2002)
+⚡ *Fun fact: I built a sub-microsecond trading engine just to learn lock-free programming.*
