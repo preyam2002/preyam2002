@@ -15,6 +15,8 @@ Ex-Oracle, IIT Kharagpur CS '23.
 | [PianoScore](https://github.com/preyam2002/piano-score) | Real-time piano practice app | Next.js, Tone.js, MIDI, Claude AI |
 | [Pacifica](https://github.com/preyam2002/pacifica) | Play-money prediction market | Next.js, Supabase, LMSR, Polymarket sync |
 | [AI Vim Golf](https://github.com/preyam2002/ai-vim-golf-arena) | AI models compete on Vim Golf | Next.js, 6 AI providers, custom Vim sim |
+| [Sift](https://github.com/preyam2002/sift) | AI notification triage for devs | Next.js, Claude, GitHub/Slack/Linear |
+| [Echo](https://github.com/preyam2002/echo) | EVE Frontier AI navigator | Next.js, Three.js, Claude tool use |
 
 ## Links
 
