@@ -16,6 +16,8 @@ Ex-Oracle, IIT Kharagpur CS '23.
 | [KeyFlow](https://github.com/preyam2002/keyflow) | Vim-style keyboard shortcuts for Chrome | MV3, TypeScript, hint mode, command palette |
 | [Better History](https://github.com/preyam2002/better-history) | Chrome extension for history search & analytics | React, Vite, Dexie, IndexedDB |
 | [AI Vim Golf](https://github.com/preyam2002/ai-vim-golf-arena) | AI models compete on Vim Golf | Next.js, 6 AI providers, custom Vim sim |
+| [Kindred](https://github.com/preyam2002/kindred) | Social taste-matching platform | Next.js, Supabase, AI, 97 API routes |
+| [Sift](https://github.com/preyam2002/sift) | AI notification triage for devs | Next.js, Claude, GitHub/Slack/Linear |
 | [PianoScore](https://github.com/preyam2002/piano-score) | Real-time piano practice app | Next.js, Tone.js, MIDI, Claude AI |
 | [Echo](https://github.com/preyam2002/echo) | EVE Frontier AI navigator | Next.js, Three.js, Claude tool use |
 
