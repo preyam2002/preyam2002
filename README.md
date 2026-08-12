@@ -2,7 +2,7 @@
 
 Full-stack engineer building prediction markets, AI tools, and low-latency systems.
 
-Ex-Oracle, IIT Kharagpur CS '23.
+Ex-Oracle, IIT Kharagpur EE '23.
 
 ## What I'm Working On
 
